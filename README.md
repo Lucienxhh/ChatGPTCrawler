@@ -1,6 +1,7 @@
 # ChatGPTCrawler
-Simple crawler for ChatGPT.
+Simple crawler for ChatGPT. 
 ​
+
 Due to the fact that ChatGPT's server is located overseas and cannot be accessed directly, there are many free mirror sites available in China that can be accessed directly.
 
 This [GitHub project](https://github.com/LiLittleCat/awesome-free-chatgpt) collects a list of free ChatGPT mirror sites, which is continuously updated.
